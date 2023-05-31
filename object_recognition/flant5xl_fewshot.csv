@@ -1,0 +1,501 @@
+sentence	obj-1	obj-2	aspect	flant5xl_fewshot
+How can you tell the difference between literal and symbolic dreams ?	literal dreams	symbolic dreams	-	Objects: literal, symbolic Aspect: difference
+should i get the Intel PRO / Wireless 3945ABG Mini-PCI Express Adapter or ThinkPad 11a / b / g Wireless LAN Mini ?	Intel PRO / Wireless 3945ABG Mini-PCI Express Adapter	ThinkPad 11a / b / g Wireless LAN Mini	-	Objects: 'Intel PRO / Wireless 3945ABG Mini-PCI Express Adapter', 'ThinkPad 11a / b / g Wireless LAN Mini' Aspect: get
+who is better manny or ortiz ?	manny	ortiz	better	manny, ortiz Aspect: better
+Who do you think the U.S. Secret Service likes more ? Democrats or Republicans ? Why do you think ?	Democrats	Republicans	likes	Objects: 'Democrats', 'Republicans' Aspect: likes
+What is the difference between Judaism and Christianity ?	Judaism	Christianity	difference	Objects: Judaism, Christianity Aspect: difference
+Are Parachial schools better than public schools ?	Parachial schools	public schools	better	Objects: public schools, Parachial schools Aspect: better
+is the naruto manga more ahead in the series than the naruto shows ?	naruto manga	naruto shows	ahead	naruto manga, naruto shows Aspect: ahead
+What are the benefits of using a DXF file versus a DWG file ?	DXF file	DWG file	benefits	a DWG file, DXF file Aspect: benefits
+Would you rather love or be loved ?	love	be loved	-	Objects: 'love', 'be loved' Aspect: love
+Do you like B5 or N-toon the most ?	B5	N-toon	like	Objects: 'B5', 'N-toon' Aspect: likes
+Whose book is better Kimora Lee Simmons or Ashanti 's ?	book Kimora Lee Simmons	book Ashanti 's	-	Objects: book, Kimora Lee Simmons, Ashanti Aspect: better
+What taste better chocolate or caramel ?	chocolate	caramel	taste	Objects: chocolate, caramel Aspect: taste
+what is the difference between Modular homes & manufactured homes ?	Modular homes	manufactured homes	-	Objects: 'Modular homes','manufactured homes' Aspect: difference
+Who do you think are better lovers , man or woman ?	man	woman	better lovers	Objects:'man', 'woman' Aspect: lovers
+should i keep the booty or lose it by working out ?	keep	lose	-	Objects: booty, lose it Aspect: keep
+what is best yahoo messenger or msn ?	yahoo messenger	msn	best	yahoo messenger, msn Aspect: best
+What is the difference between MP3 players and IPods ? Which is better ?	MP3 players	IPods	better	Objects: mp3 player, ipod Aspect: better
+Who do you think has better products , Avon or Mary Kay ?	Avon	Mary Kay	-	Objects: 'Avon', 'Mary Kay' Aspect: products
+is it more important for women or men to have hair on top ?	women	men	-	Objects: hair, top Aspect: important
+How can you make the work output of a machine GREATER than the work INPUT ?	work output	work INPUT	-	Objects: output, input Aspect: output, input
+do you get more wet walking or running in the rain ?	walking rain	running rain	wet	Objects: walking, running Aspect: wet
+Who agrees that working hard and making money is somehow better than working less and be happier ?	working hard and making money	working less and be happier	better	Objects: working hard, making money, working less, happier
+how do you do an irish whip in Smackdown Vs . Raw 2007 ?	Smackdown	Raw 2007	irish whip	smackdown vs. raw 2007, irish whip
+What are gear ratios ? What is the use of roof scoops ? What is the difference between torque and horsepower ?	torque	horsepower	-	Objects: gear ratios, roof scoops, difference between torque and horsepower
+what is the difference between between PowerBook n iBook ?	PowerBook	iBook	-	iBook, PowerBook Aspect: difference
+What is the difference between the fish circulatory system and the mammal circulatory system ?	fish circulatory system	mammal circulatory system	-	Objects: circulatory system, mammal Aspect: circulatory system
+What is the difference between stucco and masonry ?	stucco	masonry	-	masonry, stucco Aspect: difference
+Does anyone think that the imigration thing for the hispanics be compared to the armenian genocide ? ? ?	imigration thing for the hispanics	armenian genocide	-	Objects: armenian genocide, imigration thing for the hispanics Aspect: compare
+what is bigger size bitmap or jpeg ?	bitmap	jpeg	size	jpeg, bitmap Aspect: size
+what is the difference between sickle cell anemia and thalassemia ?	sickle cell anemia	thalassemia	-	thalassemia, sickle cell anemia Aspect: difference
+Does ortho tri cyclen lo lower sex drive compared to no pill at all ?	ortho tri cyclen	no pill at all	sex drive	sex drive, pill Aspect: sex drive
+who can enter carling cup ? which is superior FA Cup or Carling Cup ?	FA Cup	Carling Cup	superior	Objects: 'FA Cup', 'Carling Cup' Aspect: superior
+what ' s the difference between intel pentium 4 and intel xeon ? which one is better ?	intel pentium 4	intel xeon	better	Objects: 'intel pentium 4', 'intel xeon' Aspect: better
+Who is better and more handsome ? Lampard or Cristiano Ronaldo ?	Lampard	Cristiano Ronaldo	better more handsome	Objects: 'Lampard', 'Cristiano Ronaldo' Aspect: handsome
+who looks best 50cent or lloyd banks ?	50cent	lloyd banks	looks best	lloyd banks, 50cent Aspect: looks
+What is the difference between a blackout and a brownout ?	blackout	brownout	-	a blackout, a brownout Aspect: difference
+What is the difference between a wink and a blink ?	wink	blink	-	a wink, a blink Aspect: difference
+do you prefer fried eggs or scramble ? ? ? ? ?	fried eggs	scramble	prefer	fried eggs, scramble Aspect: prefer
+What is the difference between an Isolated Thunderstorm and a Scattered Thunderstorm ?	Isolated Thunderstorm	Scattered Thunderstorm	-	Objects: isolated thunderstorm, scattered thunderstorm Aspect: difference
+who has more booty beyonce or j-lo ?	beyonce	j-lo	booty	Objects: booty, beyonce, j-lo Aspect: booty
+who lead in 2010,India or china ?	2010,India	china	lead	Objects: 'India', 'China' Aspect: lead
+Does anyone have broadband cable ? Is it better than digital cable ? I want to change but I'm scared . ?	broadband cable	digital cable	better	Objects: broadband cable, digital cable Aspect: better
+What will 7 mm magnum do to deer versus a 30 - 30 , both at same distance of 50 yards ?	7 mm magnum	30 - 30	do	Objects: '7 mm magnum', '30 - 30' Aspect: distance
+Who do you think is better looking , Pumba or Rafiki ? ?	Pumba	Rafiki	better looking	Objects: 'Pumba', 'Rafiki' Aspect: better looking
+what came first naruto or bleach ? i saw 1 ep of bleach and its almost the same bleach < ---skcus<--- anyways yapoo answers-stop deleting my Qs lol	naruto	bleach	first	naruto, bleach Aspect: came
+Do u think men are more dominating when compared to women ?	men	women	dominating	Objects: men, women Aspect: compare
+Why is the little spanish spoke in the Philippines similar to the spanish spoken in Mexico ?	spanish Philippines	spanish Mexico	similar	Objects: 'little spanish spoke in the Philippines', 'Spanish spoken in Mexico' Aspect: similar
+How come it 's harder to open bottles / jars with my right hand than my left hand ?	jars right hand	jars left hand	open bottles	Objects: bottles / jars, hand Aspect: hand
+do scientists look for life on planets only similar to our own ? Couldn't there be life not based on carbon ?	planets	life not based on carbon	-	Objects: 'life', 'planets' Aspect: similar
+How does a revolving door conserve more energy than a regular door ?	revolving door	regular door	energy	revolving door, regular door Aspect: conserve
+"What is the difference between "" unmarked "" bills and "" marked "" bills ?"	""" unmarked "" bills"	"marked "" bills"	-	Objects: bills, difference
+Why do Microwave minutes last longer than normal minutes ?	Microwave minutes	normal minutes	last longer	Objects: minutes, Microwave Aspect: longer
+Why do women live longer than men on average ?	women	men	longer	Objects: 'live longer','men' Aspect: live
+Would a baby conceived and born in space be different to a baby conceived and born on earth ?	baby conceived and born in space	baby conceived and born on earth	-	conceived, born, earth
+Why does American news footage look so old fashioned compared to the news in the UK ?	American news	news in the UK	look old fashioned	Objects: American news footage, UK news Aspect: old fashioned
+Why do some people think that watching TV and movies is better than playing video games ?	watching TV and movies	playing video games	better	Objects: 'TV and movies', 'video games' Aspect: better
+How does your brain tell the difference between a high or slightly lower frame rate of a video ?	high frame rate of a video	slightly lower frame rate of a video	difference	a high, frame rate of a video Aspect: tell
+Why do the centers of Lindor chocolate truffles feel colder than the outer shells ?	centers Lindor chocolate truffles	Lindor chocolate truffles outer shells	feel colder	Objects: centers, shells Aspect: colder
+Why is Trump 's call to Taiwan worse than selling arms to Taiwan ?	Trump 's call to Taiwan	selling arms to Taiwan	worse	Objects: 'Trump's call to Taiwan, selling arms to Taiwan'Aspect: worse
+Why does hot water wash dishes better than cold water ?	hot water	cold water	wash dishes better	Objects: cold water, hot water Aspect: better
+Why are freezer lights much less common than fridge lights ?	freezer lights	fridge lights	common	Objects: freezer, fridge Aspect: less common
+Why does being submerged in water feel significantly colder than walking around in the same air temperature ?	submerged in water	walking around in the same air temperature	feel colder	Objects: air temperature, water temperature Aspect: colder
+What is Ethereum and how is it different / related to btcoin ?	Ethereum	btcoin	different	btcoin, Ethereum Aspect: related
+What is the difference between Colorado and Washington recreational cannabis laws ?	Colorado	Washington	cannabis laws	Objects: Colorado, Washington Aspect: difference
+How are magnets and electricity the same thing ?	magnets	electricity	same	Objects: magnets, electricity Aspect: same
+Why do we get colds in the summer ? And is this any different to getting the sniffles in winter due to the cold weather ?	colds in the summer	sniffles in winter	-	Objects: colds, cold weather
+Why does moving air feel colder than stationary air , even if I'm not really sweating ?	moving air	stationary air	feel colder	Objects: moving air, stationary air Aspect: colder
+Why do people treat rape jokes as worse than murder jokes ?	rape jokes	murder jokes	treat	rape jokes, murder jokes Aspect: worse
+What is the difference between direct and alternating current and how would using each one in a light bulb change the way it works ?	direct current	alternating current	-	alternating current, direct current Aspect: change
+What is the difference between the alligator and the crocodile , and how did they evolve separately but so similarly ?	alligator	crocodile	evolve	crocodile, alligator Aspect: similarly
+is a group of people shouting louder than just one person ?	group of people shouting	shouting one person	louder	a group of people, one person Aspect: louder
+How alike are ISIS and the Left Wing Terror Groups of the 1970s	ISIS	Left Wing Terror Groups of the 1970s	alike	Objects: ISIS, Left Wing Terror Groups of the 1970s Aspect: alike
+What is book vs market value with respect to a mutual fund ?	book value	market value	mutual fund	Objects: mutual fund, book, value
+is a mutual fund ? How is it different from a company offering stocks ?	mutual fund	company offering stocks	-	a company offering stocks, mutual fund Aspect: different
+Why does hitting a Hollow Object hurt more than hitting a Solid Object	hitting a Hollow Object	hitting a Solid Object	hurt	Objects: Hollow Object, Solid Object Aspect: hurt
+are virtual particles and how are they different from regular ones ?	virtual particles	particles regular	-	Objects: 'virtual particles','regular ones' Aspect: different
+Why can we hold in a bigger volume of urine while we are sleeping compared to when we are awake ?	sleeping	awake	hold	Objects: volume, sleep, volume Aspect: hold
+What is the difference between agnosticism and atheism ?	agnosticism	atheism	-	agnosticism, atheism Aspect: difference
+what is the difference between a presidential / executive order and a law and why presidents don't just fulfill their entire agendas / promises through executive orders ?	presidential / executive order	a law	-	a law, executive order Aspect: law
+Why Quantum Computing is better than Classical .	Quantum Computing	Computing Classical	better	Objects: Quantum Computing, Classical Aspect: better
+Why does Canada have so many more lakes than the United States ( map link inside )	Canada lakes	lakes United States	-	Objects: Canada, United States Aspect: has
+What is the rational for making cloned meat vs vat-grown meat ? pros and cons ?	cloned meat	vat-grown meat	-	cloned meat, vat-grown meat Aspect: pros, cons
+How come laws in Sweden are so different from those in America ?	Sweden	America	laws	Objects: 'laws in Sweden', 'laws in America' Aspect: different
+What is the difference between a police officer and a sheriff ?	police officer	sheriff	-	Objects: 'police officer','sheriff' Aspect: difference
+Why does it make sense for a country to ban guns but not also cars ( as cars can be just as deadly as guns ) ?	guns	cars	-	Objects: guns, cars Aspect: deadly
+Why is everything cheaper in the USA compared to the rest of the industrialized nations like Canada , Australia , UK , Germany etc .	USA	industrialized nations	cheaper	Objects: 'USA', 'Canada, Australia, UK, Germany' Aspect: cheaper
+What is the Asian Holocaust and why didn't we learn about it in school if it 's worse than the Jewish Holocaust ?	Asian Holocaust	Jewish	worse	Objects: 'Asian Holocaust', 'Jewish Holocaust' Aspect: worse
+Can someone explain to me why a lot of the anime population likes subbed better than dubbed ?	subbed	dubbed	likes	subbed, dubbed Aspect: likes
+Why does cold water tastes different than hot water ?	cold water	hot water	tastes	Objects: cold water, hot water Aspect: different
+Why does chocolate that has been melted once melt faster than chocolate that hasn't been melted ?	has been melted once	hasn't been melted	melt faster	Objects: chocolate, chocolate that hasn't been melted Aspect: melt faster
+is Formula1 different from a typical car race , why is it so popular ?	Formula1	typical	-	Objects: 'Ferrari', 'car race' Aspect: car race
+Why does tea lose heat quicker than coffee ?	tea	coffee	lose heat	Objects: tea, coffee Aspect: lose heat
+What is the difference between soap and shampoo ?	soap	shampoo	-	Objects:'soap','shampoo' Aspect: difference
+How are the World Wars different than an Allied Peace Keeping Force invading Iraq ?	World Wars	Allied Peace Keeping Force invading Iraq	-	Allied Peace Keeping Force, World Wars Aspect: different
+Why is it faster to erase 4 GB of data from a USB drive than write the same 4 GB on it ?	erase 4 GB of data	4 GB of data write	faster	Objects: erase, data, USB drive, write
+Why is powder easier to disolve in hot water than cold ?	hot water	water cold	disolve	Objects: powder, water Aspect: cold
+Why do British prime ministers resign so easily , compared to U.S. presidents ?	British prime ministers	U.S. presidents	resign	Objects: 'British prime ministers', 'U.S. presidents' Aspect: resign
+Why does a cup with smaller surface area make more noise when set down than a cup with a bigger surface area ?	cup smaller surface	cup bigger surface	noise	a cup, surface area
+Why do scientists need research and sources for claims but we dont require the same of politicians ?	scientists	politicians	research and sources	Objects:'require','require','research','sources','require','require','require','require','require','require','require','require','require','require'
+"Why does the "" I "" in "" HIV "" stand for immunodeficiency but the "" ID "" in "" AIDS "" strand for "" Immune Deficiency "" ? What 's the difference between immune and immuno ?"	immune	immuno	difference	Objects: 'HIV', 'AIDS', 'immune', 'immunodeficiency', 'immune Deficiency', 'immunedeficiency', 'immune', 'immunodeficiency', 'immunedeficiency', 'immunedeficiency', '
+What is the difference between a duck hook and a snap hook in golf ?	duck hook	snap hook	difference	a duck hook, a snap hook Aspect: difference
+Does brain activity in animals take up less relative energy than the human brain ?	brain activity animals	brain activity human	energy	Objects: brain activity, energy, brain
+Are nautical miles different to regular miles ? If so , why are two different kinds of miles used for navigation ?	nautical miles	regular miles	-	Objects: nautical miles, regular miles Aspect: different
+Is it harder or easier for animals with 4 legs to walk compared to animals with 2 legs ?	animals with 4 legs	animals with 2 legs	walk	Objects: animals, walk
+"Why is a teflon pan more "" non stick "" than a ceramic pan ?"	teflon pan	ceramic pan	non stick	teflon pan, ceramic pan Aspect: non stick
+Why do I look so much better in a window reflection than in a mirror ?	window reflection	mirror	look	Objects: mirror, window reflection Aspect: look
+What is the difference between Quicksaving and actual Saving in video games ?	Quicksaving video games	actual Saving video games	-	Objects: Quicksaving, Saving Aspect: difference
+Why does water feel cooler than air of the same temperature ?	water same temperature	air same temperature	feel cooler	Objects: air, water, temperature
+Why is real estate investing so expensive compared to businesses ?	real estate investing	businesses	expensive	Objects: real estate investing, businesses Aspect: expensive
+Why are womens physical traits more desired than mens ?	womens physical traits	physical traits mens	desired	Objects: 'female','male' Aspect: desired
+Do humans experience anything similar to when animals go into heat ?	humans	animals	heat	Objects: animals, humans Aspect: similar
+Why does sparkling water taste differently than regular water ?	sparkling water	regular water	taste	Objects: sparkling water, regular water Aspect: taste
+Why is weed smoke not as dark as forest fire smoke ?	weed smoke	forest fire smoke	dark	weed smoke, forest fire smoke Aspect: dark
+Why dies steak cook faster than chicken ?	steak	chicken	cook faster	Objects: chicken, steak Aspect: cook
+What is the difference between photos and regular printing ?	photos	regular printing	-	Objects: 'photos','regular printing' Aspect: difference
+Does where your driving on the road ( shoulder versus near the center lane ) increase the distance you travel ?	driving road shoulder	driving road the center lane	distance	Objects: driving, distance, road
+What is the actual difference between spicy food and hot food ?	spicy food	hot food	-	Objects: spicy food, hot food Aspect: difference
+Why do motorcycles have a gear ratio of less than 1:1 , whereas bicycles have a higher ratio ?	motorcycles	bicycles	gear ratio	Objects: motorcycles, bicycles Aspect: ratio
+Is -10ºF twice as cold as -5ºF ?	-10ºF	-5ºF	cold	-10oF, -5oF Aspect: cold
+Is there any information on how many dog people vs cat people there are ?	dog people	cat people	how many	Objects: 'dog people', 'cat people' Aspect: comparison
+Why are Western nations seemingly helping Syrian immigrants much more than the nations close to it ?	Western	close to	helping	Objects: nations, Syrian immigrants, nations close to it Aspect: helping
+Why are There More ISPs than Companies Providing TV ?	ISPs	Companies	-	Objects: 'ISPs', 'Companies Providing TV' Aspect: More
+Is there any difference between a mile and a country mile ?	mile	country mile	-	a mile, country mile Aspect: difference
+Why are black Americans usually much lighter in skin tone than those from Africa today ?	black Americans	those from Africa	skin tone	Objects: 'Americans', 'Africans' Aspect: lighter
+Does going up stairs 2 at a time use a different amount of energy than going up 1 at a time ?	going up stairs 2 at a time	going up 1 at a time	energy	stair, energy
+What is the difference between domestic violence and assualt ?	domestic violence	assualt	-	Objects: domestic violence, assault Aspect: difference
+Is the American South really more racist than the rest of the US or is it a stereotype ?	American South	rest of the US	racist	Objects: 'American South','rest of the US' Aspect: racist
+How true is it that it is easier to get faster in running in your teenage years compared to your 20s ?	running teenage years	running 20s	easier	Objects: teenage years, 20s Aspect: easier
+Is anal sex better than vaginal ?	anal sex	sex vaginal	better	sex, vaginal Aspect: better
+Why is bench pressing my body weight significantly easier than doing pushups ?	bench pressing	pushups	easier	Objects: 'bench pressing my body weight ', 'doing pushups'Aspect: easier
+Is the Terran Empire from mirror Star Trek worse than the Empire from Star Wars ?	Terran mirror Star Trek	Star Wars	-	Objects: Terran Empire, Empire from Star Wars Aspect: worse
+What is the difference between a boyfriend T shirt and a men 's shirt . ( Besides price )	boyfriend T shirt	men 's shirt	-	t shirt, shirt Aspect: price
+"Does it make any difference between using the term "" Native American "" or "" Indian "" ? ... Is it racist to wonder that ?"	Native American	Indian	using	Objects: 'Native American', 'Indian' Aspect: difference
+Do blind people report higher rates of being victims of crime than those with sight ?	blind people	people with sight	rates of being victims of crime	Objects: 'blind people', 'those with sight' Aspect: crime
+How is the Infrared in our remotes different from Infrared in the form of heat ?	remotes	form of heat	-	Objects: remotes, Infrared in the form of heat Aspect: different
+Does doing 100 push-ups over the course of a day vs. all in one session end with the same result ?	100 push-ups the course of a day	100 push-ups in one session	result	Objects: 100 push-ups, result
+"Is there really a difference between "" liquid "" and "" solid "" measuring cups for cooking / baking ?"	liquid measuring cups	solid measuring cups	cooking / baking	Objects: liquid, solid Aspect: difference
+What are the difference between how a laser printer and an ink printer function ?	laser printer	ink printer	function	a laser printer, ink printer Aspect: function
+Is T-Mobile better than Verizon cost and service wise ?	T-Mobile	Verizon	cost and service	Objects: 'T-Mobile', 'Verizon' Aspect: cost, service
+Do deaf people appreciate / like silent cinema more than hearing people ?	deaf people silent cinema	silent cinema hearing people	appreciate / like	Objects: cinema, deaf, hearing
+Why is my couch more comfortable than my bed ?	couch	bed	comfortable	Objects: couch, bed Aspect: comfortable
+What is the difference between DVD-R and DVD+R ?	DVD-R	DVD+R	-	Objects: 'DVD-R', 'DVD+R' Aspect: difference
+Why is it easier to get planning permission for brownfield sites rather than greenfield ?	brownfield sites	sites greenfield	planning permission	Objects: brownfield, greenfield Aspect: easier
+Are yahoo maps or google maps better ?	yahoo maps	google maps	better	yahoo maps, google maps Aspect: better
+do u like extroverts or introverts ?	extroverts	introverts	-	Objects: 'extroverts', 'introverts' Aspect: likes
+What are the differences between Democracy vs Dictatorship ?	Democracy	Dictatorship	-	Objects: Democracy, Dictatorship Aspect: differences
+Is it cheaper to buy cosmetics from the airport than the city ?	airport	city	cheaper	Objects: airport, city Aspect: cheaper
+what place is the best virgin islands or Hawaii ?	virgin islands	Hawaii	best	Objects: virgin islands, Hawaii Aspect: place
+what is the difference between sterling silver and platinum besides the price ?	sterling silver	platinum	-	Objects: sterling silver, platinum Aspect: price
+are boules and petanque the same game ?	boules	petanque	-	Objects: 'boules', 'petanque' Aspect: same
+is a family med graduate as efficient as a medicine one ?	family med graduate	medicine	efficient	Objects: 'family med graduate','medicine' Aspect: efficient
+what is the difference between ATA and SATA hard disks	ATA hard disks	SATA hard disks	-	ATA, SATA Aspect: difference
+Who should be impeached , bush or clinton ? ?	bush	clinton	impeached	clinton, bush Aspect: impeached
+Who would win cowboys or falcons for the superbowl ? ?	cowboys superbowl	falcons superbowl	win	Objects: cowboys, falcons Aspect: win
+Is light blue jeans nicer or dark blue ones ? ( suppose they're of the same design and cut ) ?	light blue jeans	jeans dark blue	nicer	jean, nicer
+what are the best ' hold me in ' knickers or underware ?	knickers	underware	-	knickers, underware Aspect: hold me in
+Why is the ocean water denser than fresh water ?	ocean water	fresh water	denser	Objects: ocean water, fresh water Aspect: denser
+What is the difference between a transsexual and a hermaphrodite ?	transsexual	hermaphrodite	-	a transsexual, hermaphrodite Aspect: difference
+why is american english different than british english when the british colonised this country ?	american english	british english	-	british english, american english Aspect: different
+Is that true , LCD monitor has lower radiation than tradition CRT monitor ?	LCD monitor	CRT monitor	radiation	Objects: LCD monitor, CRT monitor Aspect: radiation
+are cat lice and human lice the same ?	cat lice	human lice	-	Objects: cat lice, human lice Aspect: same
+What is the difference between the molar heat of reaction and heat of reaction ?	molar heat of reaction	heat of reaction	-	molar heat of reaction, heat of reaction Aspect: difference
+What is the correct direction to sleep , N-S or E-W. Any links regarding this topic would be good . ?	direction to sleep N-S	direction to sleep E-W.	correct	Objects: direction, sleep Aspect: correct
+what is the difference between white spirit and turps substitute ?	white spirit	turps substitute	-	turps substitute, white spirit Aspect: difference
+Who do you prefer ? ? ? Billie Joe Armstrong or Davey Havok	Billie Joe Armstrong	Davey Havok	-	Objects: Billie Joe Armstrong, Davey Havok Aspect: prefer
+What are the differences between the DNS and the AlterNic ?	DNS	AlterNic	-	Objects: DNS, AlterNic Aspect: differences
+Can someone tell me which console is going to be better ? Xbox 360 or Ps3 ?	Xbox 360	Ps3	better	Objects: Xbox 360, Ps3 Aspect: console
+what is the difference between trance and phunk music ?	trance music	phunk music	-	trance, phunk Aspect: difference
+Shall i invest in yahoo or google . Please don't answer me invest in both . ?	yahoo	google	invest	yahoo, google Aspect: invest
+Is there a difference between a manufacturer 's external hard drive and the hard drives with enclosure ?	manufacturer 's external hard drive	hard drives with enclosure	-	Objects: hard drive, hard drives Aspect: difference
+Are the hands that help better than the lips that pray ?	hands that help	lips that pray	better	Objects: 'hands that help ', 'lips that pray'Aspect: better
+Is is better to take the day train or night train from Kuala Lumpur to Singapore ?	day train from Kuala Lumpur to Singapore	night train from Kuala Lumpur to Singapore	better	Objects: 'day train', 'night train' Aspect: better
+What is the difference between air conditioner and air condiotner bypass ?	air conditioner	air condiotner bypass	-	Objects: air conditioner, air condiotner bypass Aspect: difference
+would you rather be burned to death or get molested by your dad ?	burned to death	get molested by your dad	-	Objects: burned to death, molested by your dad Aspect: burnt
+What is WWW2.How is it different from WWW ( World wide Web ) in terms of technology and use . ?	WWW2.How	WWW (	technology and use	Objects: WWW2, World wide Web Aspect: technology
+What is the difference between an Asset Manager and a Hedge Fund ?	Asset Manager	Hedge Fund	-	Objects: 'Asset Manager', 'Hedge Fund' Aspect: difference
+should you eat ... then exercise or should you exercise ... then eat ?	eat ... then exercise	exercise ... then eat	-	eat, exercise Aspect: eat, exercise
+Why delivery terms differ in some Oil magazines ? Whats the difference between usual FOB and FOB Ex-refinery / storage ? Why the cost of these two differes ?	FOB	FOB Ex-refinery / storage	-	Objects: delivery terms, FOB, FOB Ex-refinery / storage, cost
+what is the same between USA goverment and rome empire ?	USA goverment	rome empire	-	rome empire, USA goverment Aspect: same
+Do girls like having their breast rubbed or kissed ?	breast rubbed	breast kissed	like	rubbed, kissed Aspect: like
+what is the difference between a B-777 - 200 and the new B787 - 900 ?	B-777 - 200	B787 - 900	-	a B-777 - 200, B787 - 900 Aspect: difference
+what are brazilian slates like and are they better than chinese ?	brazilian slates	slates chinese	better	chinese, slates
+What is the main difference between Procedural Due Process and Substantial Due Process ?	Procedural Due Process	Substantial Due Process	-	Objects: procedural due process, substantive due process Aspect: difference
+"Will China be a better "" Big brother of the world "" than the US ?"	China	US	Big brother of the world	Objects: China, US Aspect: better
+What is the difference between Paint Shop Pro and Photo Shop ?	Paint Shop Pro	Photo Shop	-	Objects: Paint Shop Pro, Photo Shop Aspect: difference
+What is the difference between a flatscreen and a plasma screen tv ?	flatscreen tv	plasma screen tv	-	tv, screen
+Do women want to have childeren more than men ?	women	men	want to have childeren	Objects: 'childeren', 'women' Aspect: want
+can anybody name the differences between the high schools in india and america ?	high schools india	high schools america	-	america, india Aspect: america
+What is the difference between a Jew and a Jahova 's Wittness ?	Jew	Jahova 's Wittness	-	a Jew, a Jahova's Wittness Aspect: difference
+When buidling a website , should I create the pages with layers or tables ?	layers	tables	pages	Objects: layers, tables Aspect: create
+Why does low intensity excercise burn fat better than high intensity excercise ?	low intensity excercise	excercise high intensity	burn fat better	Objects: low intensity excercise, high intensity excercise Aspect: burn
+are vegitarians healthier than meat eaters ?	vegitarians	meat eaters	healthier	vegitarians, meat eaters Aspect: healthier
+Is there any real difference between Similac and Enfamil formulas ?	Similac formulas	Enfamil formulas	-	Objects: 'Similac', 'Enfamil' Aspect: difference
+do u like rihanna or shakira ?	rihanna	shakira	like	rihanna, shakira Aspect: likes
+why a relatively larger amount of energy is required to break the bond symmetrically than assymetrically ?	symmetrically	assymetrically	amount of energy	symmetrically, assymetrically Aspect: amount
+"What is the difference between "" religion "" and "" spirituality "" ?"	religion	spirituality	-	Objects:'religion ','spirituality'Aspect: difference
+what is the difference between granite and marble any ?	granite	marble	-	Objects: granite, marble Aspect: difference
+Do you think that black people dance better than white people ?	black people	white people	dance	Objects: black people, white people Aspect: dance
+Why are premium Cars & Bikes less fuel efficient than Economy Cars & Bikes ?	premium Cars & Bikes	Economy Cars & Bikes	fuel efficient	Objects: Cars & Bikes, Economy Cars & Bikes Aspect: fuel efficient
+What is the difference between server program & client program ?	server program	client program	-	Objects:'server program', 'client program' Aspect: difference
+What is the difference between ADHD and Dyslexia ? Are they both consider learning disabilities ?	ADHD	Dyslexia	-	Objects: ADHD, Dyslexia Aspect: learning disabilities
+"Do you perfer "" rock and roll "" style ( concert shirts , holey jeans , goatees ) or metrosexuals ( polo shirts or button up 's , khakis , clean shaven ) ?"	""" rock and roll "" style"	metrosexuals	-	Objects: polo shirts, button up's, khakis, clean shaven
+Do you prefer brunettes or blondes ?	brunettes	blondes	-	Objects: brunettes, blondes Aspect: prefer
+Why is Java less efficient than say C++ ?	Java	C++	efficient	Objects: Java, C++ Aspect: efficient
+what is the difference between leg spin bowle and off spin bowler ?	leg spin bowle	off spin bowler	-	Objects: leg spin bowle, off spin bowler Aspect: difference
+Why do some stores ( like WalMart ) have MUCH better return policies than , say , Best Buy ?	WalMart	Best Buy	return policies	Objects: 'Best Buy ', 'WalMart ','return policies' Aspect: better
+what is worse receeding or going grey ?	receeding	going grey	worse	Objects: 'grey ','receding'Aspect: worse
+what is the difference between steam turbine and gas turbine ?	steam turbine	gas turbine	-	Objects: steam turbine, gas turbine Aspect: difference
+What are the differences between little girls and boys ?	girls	boys	-	Objects: girls, boys Aspect: differences
+Should I go to Happy Hour with my coworkers or go home and clean my house ?	Happy Hour with my coworkers	go home and clean my house	-	Objects: go, home, clean
+Was chicken guniea related to bird flu ?	chicken guniea	bird flu	related	Objects: chicken guniea, bird flu Aspect: related
+Do you think its better to date older guys than younger ?	older guys	guys younger	date	Objects: older, younger Aspect: better
+Where they fairy cakes or jaffa cakes ?	fairy cakes	jaffa cakes	-	jaffa cakes, fairy cakes Aspect: cakes
+Can you compare who among these two Hollywood celebrities ( Hilary Duff or Lindsay Lohan ) is : 1 ) Prettier 2 ) Kind 3 ) Popular 4 ) Sexy 5 ) Rich I would appreciate it if you give me your reason why do u choose or not choose her from above given description .	Hilary Duff	Lindsay Lohan	Prettier Kind Popular Sexy Rich	Objects: 'Hilary Duff', 'Lindsay Lohan' Aspect: compare
+why are girl fights more itneresting to fight than guy fights ?	girl fights	guy fights	itneresting	Objects: girl fights, guy fights Aspect: interesting
+what is better car or boat ?	car	boat	better	Objects: car, boat Aspect: car
+How are sex cells different from body cells ?	sex cells	body cells	-	sex cells, body cells Aspect: different
+What is a better option : Lumeneers or Veneers ?	Lumeneers	Veneers	better option	Objects: Lumeneers, Veneers Aspect: better option
+should i get glasses or contact lenses ?	glasses	contact lenses	-	Objects: 'glasses', 'contact lenses' Aspect: glasses
+Is there any way to find out difference between inherited zircon and orginal magmatic zircon ?	inherited zircon	orginal magmatic zircon	-	inherited zircon, orginal magmatic zircon Aspect: difference
+Why is it better going to Mindanao Island than visiting Boracay ?	Mindanao Island	Boracay	-	Objects: Mindanao Island, Boracay Aspect: better
+Why are Mexicans under the illusion they are better than the USA at soccer ?	Mexicans	USA	better soccer	Objects: Mexicans, USA Aspect: better
+What is the difference between a newt and a salamander ?	newt	salamander	-	Objects: newt, salamander Aspect: difference
+Is there really that much of a difference between generic drugs and the brand version ? ? ? ? ( See below ) ?	generic drugs	brand version	-	Objects: generic drugs, brand version Aspect: difference
+Why does a lemonade taste better with soda than plain water ?	lemonade soda	lemonade plain water	taste	Objects: lemonade, soda, water Aspect: better
+Who is better , Dwayne or Lebron ?	Dwayne	Lebron	-	Objects: 'Dwayne', 'Lebron' Aspect: better
+who is going to win the chelsea vs liverpool game ?	chelsea	liverpool	-	chelsea, liverpool Aspect: game
+Is japanese medical science better than american medical science ? Is american technology better ? ... need opinions pls ......	japanese medical science	american medical science	better	Objects: medical science, technology Aspect: better
+What would u rather buy an Ipod or Ipod Nano ?	Ipod	Ipod Nano	buy	Objects: ipod, ipod nano Aspect: buy
+Do comps . damage the eyes more than the TV ? WHY ?	comps	TV	damage the eyes	Objects: comps., TV Aspect: damage
+Why do pro-lifers tend to be more violent than pro-choicers ?	pro-lifers	pro-choicers	violent	Objects: pro-lifers, pro-choicers Aspect: violent
+What is the difference between chat rooms and forums ( if any ) ?	chat rooms	forums	-	Objects: chat rooms, forums Aspect: difference
+do actions speaks louder than words ? why ?	actions	words	speaks	Objects: actions, words Aspect: louder
+Should I rent or buy a home in California ?	rent home	buy home	-	Objects: 'buy a home in California ','rent a home in California'Aspect: buy
+Who will win the big game Ohio State or Michigan ?	Ohio State	Michigan	win	Objects: 'Ohio State', 'Michigan' Aspect: game
+Is Love really the most powerful feeling in this world or Hate is actually what can control and evntually destroy us ?	Love	Hate	-	Objects: 'Love', 'Hate' Aspect: powerful
+Is Blockbuster DVD delivery as fast as Netflix ?	Blockbuster DVD	Netflix	-	Objects: Blockbuster DVD, Netflix Aspect: fast
+Who is better : Zico or Romario ?	Zico	Romario	-	Objects: Zico, Romario Aspect: better
+Are gays and lesbians more productive at work than heterosexual people ?	gays and lesbians	heterosexual	productive	Objects: gays, heterosexual people Aspect: productive
+What is healthier , masochism or sadism ?	masochism	sadism	healthier	masochism, sadism Aspect: healthier
+what are the negitives and positives of gambling .... like do you earn more money or lose more ?	earn	lose	gambling	Objects: negitives, positives Aspect: negatives, positives
+Do liberals help this country more than Patriots and why ?	liberals	Patriots	help	Objects: liberals, Patriots Aspect: help
+Why are 1 way plane tickets more expensive than round trip ususally and why are saturday stays cheaper ?	1 way plane tickets	round trip	expensive	Objects: '1 way plane tickets', 'round trip','saturday stays' Aspect: cheaper
+do u prefer redheads or blondes for a girl ?	redheads	blondes	prefer	blonds, redheads Aspect: prefer
+what is true love ? whats the difference between love and infatuation ... ?	love	infatuation	-	Objects: 'love', 'infatuation' Aspect: difference
+what is the most popular form of showing affection , hug or kiss ?	hug	kiss	showing affection	Objects: hug, kiss Aspect: form
+How does the American system of democracy work In what way it is different from India 's form of democracy ?	American system of democracy	India 's form of democracy	-	Objects: 'American system of democracy', 'India's form of democracy' Aspect: different
+why do more girl wear brace than boys ?	girl	boys	wear brace	Objects: brace, boys Aspect: wear
+What exactly is the difference between split leather and top grade leather ?	split leather	top grade leather	-	Objects: split leather, top grade leather Aspect: difference
+Are atheists happier than Christians ?	atheists	Christians	happier	Objects: atheists, Christians Aspect: happier
+Do you think you get better deals on EBAY than a reg . dept store ?	EBAY	reg . dept store	better deals	EBAY, reg. dept store Aspect: deals
+Do you like skater shoes or converse better ?	skater shoes	converse	-	Objects: converse, skater shoes Aspect: like
+What is the difference between DELL computer and Compaq computers ?	DELL computer	Compaq computers	-	Objects: 'Compaq computers', 'DELL computer' Aspect: difference
+Should i buy xbox 360 or ps3 ?	xbox 360	ps3	-	xbox 360, ps3 Aspect: buy
+Should i do B.COM or B.B.A ?	B.COM	B.B.A	-	Objects: 'B.COM', 'B.B.A' Aspect: should
+Why hate is more powerful than love ?	hate	love	powerful	Objects: hate, love Aspect: powerful
+Are hydrolysis reactions equal to condensation reactions ?	hydrolysis reactions	condensation reactions	-	Objects: hydrolysis reactions, condensation reactions Aspect: equal
+Why do liberals fear Bush more than Iran ?	liberals	Iran	fear	Objects: 'Bush', 'Iran' Aspect: fear
+Who do u think is better looking Hilary Duff or Lindsay Lohan ? and why do u think that ?	Hilary Duff	Lindsay Lohan	better looking	Objects: 'Hilary Duff', 'Lindsay Lohan' Aspect: looking
+who do you think is the WORSE ? Sadam OR Bush ?	Sadam	Bush	WORSE	Objects: 'Sadam', 'Bush' Aspect: worse
+What Is The Difference Between Business Administraion and business Management ?	Business Administraion	business Management	-	Objects: business administration, business management Aspect: difference
+is mainland europe diesel different from uk diesel ?	mainland europe diesel	uk diesel	-	europe diesel, uk diesel Aspect: different
+Who is better Orlando Bloom or Tom Cruise ?	Orlando Bloom	Tom Cruise	better	Objects: Orlando Bloom, Tom Cruise Aspect: better
+Who will win the State of Origin ? QLD or NSW ?	QLD	NSW	-	Objects: 'QLD', 'NSW' Aspect: win
+who is the superior race BLACKS or whites ?	BLACKS	whites	superior	Objects: 'blacks', 'whites' Aspect: superior
+why individual chromosomes are more difficult to see during interphase than during mitosis ?	chromosomes interphase	chromosomes mitosis	see	chromosomes, interphase, mitosis Aspect: difficult
+What is a good brand of creatine ? Pill or Powder ? I was thinking of taking Cell-Tech but it seems to be loaded with suger !	Pill	Powder	brand	Objects: creatine, Powder, Cell-Tech Aspect: brand
+what are some differences between yahoo and firefox ? good and bad ?	yahoo	firefox	differences	yahoo, firefox Aspect: good, bad
+what is the best way to ask a guy out by a note or asking them in person ?	note	in person	best way	a note, asking them in person Aspect: ask
+What is better MySpace or Tagworld ?	MySpace	Tagworld	better	Objects: 'MySpace', 'Tagworld' Aspect: better
+Is emotional cheating worse than physical affair ?	emotional cheating	physical affair	worse	Objects: emotional cheating, physical affair Aspect: worse
+Who is better George W Bush or Bill Clinton ?	George W Bush	Bill Clinton	better	Objects: 'George W Bush', 'Bill Clinton' Aspect: better
+Do black women like white men better than black menb ?	white men	black menb	like	Objects: 'black women', 'white men', 'black menb' Aspect: like
+What is the difference between International premieres and World Premieres ?	International premieres	World Premieres	-	Objects: 'International premieres', 'World Premieres' Aspect: difference
+Why does Coke make me have to pee so much more than tea does ? ?	Coke	tea	pee	Objects: tea, Coke Aspect: pee
+Who is better ? Sachin Or Sewag ? ? ?	Sachin	Sewag	-	sachin, swag Aspect: better
+Is a DORK --- B E T T E R --- than a JURK ? ? ?	DORK	JURK	T	Objects: 'Jurk', 'Dork' Aspect: better
+"What is the difference between "" la nina "" and "" el nino "" ?"	la nina	el nino	-	Objects: 'la nina', 'el nino' Aspect: difference
+Why is being in a public School better than being Home Schooled ?	being in a public School	being Home Schooled	better	Objects: 'public School', 'Home Schooled' Aspect: better
+Do you prefer Kool-Aid or Soda and why ?	Kool-Aid	Soda	prefer	Objects: 'Kool-Aid', 'Soda' Aspect: prefer
+Why do you prefer to live in the dark rather than The Light ?	live the dark	live The Light	prefer	Objects: dark, Light Aspect: prefer
+What alcohol is stronger Moonshine or everclear ?	alcohol Moonshine	alcohol everclear	stronger	Objects: 'Moonshine', 'Everclear' Aspect: stronger
+Are moonbeams better than sunshine ?	moonbeams	sunshine	better	Objects: moonbeams, sunshine Aspect: better
+Are human beings more aggressive than animals ?	human beings	animals	aggressive	Objects: human beings, animals Aspect: aggressive
+what do u think is better ? xanga or myspace ? ? ?	xanga	myspace	better	xanga, myspace Aspect: better
+what is the difference between having bipolar i and bipolar 2 ? ?	bipolar i	bipolar 2	-	i, bipolar 2 Aspect: difference
+Who is better , Madonna or Cher ?	Madonna	Cher	better	Objects: 'Madonna', 'Cheryl' Aspect: better
+What is the difference between vanilla extract and pure vanilla ?	vanilla extract	pure vanilla	-	Objects: vanilla extract, pure vanilla Aspect: difference
+Why is it easier to do a standing back flip than a standing front flip ?	back flip	front flip	easier	Objects:'standing back flip','standing front flip' Aspect: easier
+is Howard Stern 's show on Sirius any good ? Better or worse than the clear channel version ?	show Sirius	show clear channel version	Better or worse	Objects:'show', 'Sirius', 'clear channel' Aspect: better
+What is the difference between TTL and CMOS ?	TTL	CMOS	-	CMOS, TTL Aspect: difference
+who is the better rapper t.i or lil flip and who looks better ?	t.i	lil flip	-	t.i, lil flip Aspect: rapper
+Who is a funnier comedian : Kevin James or Ray Ramono ?	comedian Kevin James	comedian Ray Ramono	funnier	Objects: 'Kevin James', 'Ray Ramono' Aspect: comedian
+Why are dogs worse pets than cats ? ?	dogs	cats	worse pets	Objects: 'dogs', 'cats' Aspect: worse
+who likes sex better guys or girls ?	guys	girls	likes sex	sex, guys, girls Aspect: likes
+how does IRS sefine a trade / business vs. investment ?	trade / business	investment	sefine	a trade / business, investment Aspect: sefine
+Who will be better Michael Jordan or Kobe Bryant ? Why ?	Michael Jordan	Kobe Bryant	better	Objects: 'Michael Jordan ', 'Kobe Bryant'Aspect: better
+Does bitter gourd contain cholesterol or does it reduces cholesterol in the body ?	contain cholesterol	reduces cholesterol	-	Objects: bitter gourd, cholesterol Aspect: contain
+Why it costs less to make steel in Asia than in Europe ?	Asia	Europe	costs less to make steel	Objects: 'Europe ', 'Asia ', 'costs less to make steel' Aspect: cost
+Why is it more easier to fall in love with someone online than in real life ?	online	in real life	easier to fall in love	Objects: fall in love, online, real life
+Is the Texas Flag supposed to be positioned higher than the USA Flag ?	Texas Flag	USA Flag	positioned	Objects: flag, USA, Texas Aspect: flag, USA
+what is beter xbox or playstation2 ?	xbox	playstation2	beter	xbox, playstation2 Aspect: beter
+Why might warehouse costs be lower for a business in Antwerp or Lille than Dover ?	warehouse Antwerp or Lille	warehouse Dover	-	Objects: Antwerp, Lille, Dover Aspect: warehouse costs
+Who was the better wrestler , Bruno Sammartino or Ric Flair ?	wrestler Bruno Sammartino	wrestler Ric Flair	better	Objects: 'Bruno Sammartino', 'Ric Flair' Aspect: wrestler
+"Can anyone explain the difference between "" poppers "" and "" ecstacy "" ?"	poppers	ecstacy	-	Objects: 'poppers', 'ecstacy' Aspect: difference
+what is the difference between apis mellifera & apis cerana ?	apis mellifera	apis cerana	-	apis mellifera, apis cerana Aspect: difference
+who is most handsome salman khan or hrithik roshan ?	salman khan	hrithik roshan	handsome	hrithik roshan, salman khan Aspect: handsome
+is my best friend caitlin or brittany ?	caitlin	brittany	-	brittany, caitlin Aspect: friend
+What is the difference between science and science fiction ?	science	science fiction	-	Objects: science, science fiction Aspect: difference
+Who would win in a fight : Gwar or Slipknot ?	Gwar	Slipknot	win	Objects: 'Gwar', 'Slipknot' Aspect: win
+is it better to makeout or have sex ?	makeout	have sex	better	sex, makeout Aspect: better
+How many orgasms can a female vs male do in a 24 hour period . I know the answer but I am just checking ! ?	female	male	orgasms	a female, male Aspect: orgasms
+Is an all wheel drive vehicle as good on gas as a 2 wheel drive ?	all wheel drive vehicle	2 wheel drive	gas	Objects: vehicle, 2 wheel drive Aspect: good on gas
+who do you think is the best bruce lee or jet li ?	bruce lee	jet li	best	bruce lee, jet li Aspect: best
+"Why can guys have sex with a lot of girls and be "" Cool "" , but when girls do the same , they are whores ? ? ?"	guys	girls	-	sex with a lot of girls, whores
+Should I keep or quit my job and how should I quit ?	keep job	quit job	-	Objects: keep, quit Aspect: keep, quit
+Who sings better ? Jesse Mc Cartney or Zac Efron ?	Jesse Mc Cartney	Zac Efron	sings	Objects: 'Jesse Mc Cartney', 'Zac Efron' Aspect: sings
+Who is better , Lindsay Lohan or Hillary Duff in terms of their acting ability . ?	Lindsay Lohan	Hillary Duff	acting ability	Objects: 'Lindsay Lohan', 'Hillary Duff' Aspect: acting
+is mcafee or avg which anti virus protects system better ?	mcafee	avg	protects	mcafee, avg Aspect: protects system
+Who would you prefer Angelina Jolie or Jennifer Aneston ?	Angelina Jolie	Jennifer Aneston	-	Objects: Angelina Jolie, Jennifer Aneston Aspect: prefer
+what is asperger 's syndrome and how is different from bi-polar disorder typer 1 ?	asperger 's syndrome	bi-polar disorder typer 1	-	'asperger's syndrome', 'bi-polar disorder typer 1' Aspect: different
+Wouldn't you rather have your kids and their friends drunk in your house than out on the street ?	in your house	on the street	kids drunk	Objects: 'in your house', 'on the street' Aspect: kids drunk
+who is the better band my chemical romance or panic at the disco . ?	my chemical romance	panic at the disco	better	Objects:'my chemical romance', 'panic at the disco' Aspect: band
+Who is better at football popular more Tom Brady or Steve Smith ?	Tom Brady	Steve Smith	better at football	Objects: 'Tom Brady', 'Steve Smith' Aspect: better at football
+Who is a better team Clippers or Lakers ?	Clippers	Lakers	better	Objects: Clippers, Lakers Aspect: team
+what is the difference between naturist and nudist ?	naturist	nudist	-	naturist, nudist Aspect: difference
+Why does Abercrombie cost so much more than Aeropostale ?	Abercrombie	Aeropostale	cost	Objects: Abercrombie, Aeropostale Aspect: cost
+what is the difference between a caskett and coffin ?	caskett	coffin	-	Objects: caskett, coffin Aspect: difference
+what is the difference between policy and procedure ?	policy	procedure	-	Objects: policy, procedure Aspect: difference
+what are in cigars and what makes them different from cigarettes ?	cigars	cigarettes	-	cigarette, cigars Aspect: different
+what is the difference between an ipod & mp3 player ?	ipod	mp3 player	-	ipod, mp3 player Aspect: difference
+Who do you think is better , britney spears or hilary duff and why ?	britney spears	hilary duff	better	britney spears, hilary duff Aspect: better
+what is the difference between a supervisor and a leader ?	supervisor	leader	-	Objects:'supervisor', 'leader' Aspect: difference
+What do you feel is the more appropriate term - Latino or Hispanic and why ?	Latino	Hispanic	appropriate	Objects: Latino, Hispanic Aspect: appropriate
+Should I get a gym membership or bowflex ?	gym membership	bowflex	-	Objects: membership, bowflex Aspect: membership
+Do you like watching movies or playing video games . Which movie 's your favorite or which video game do you love ?	watching movies	playing video games	like	Objects: 'video game', 'video game' Aspect: love
+who is hotter paul walker or vin diesel ?	paul walker	vin diesel	hotter	Objects: paul walker, vin diesel Aspect: hotter
+What is the difference between a motel and hotel going on a trip want best ?	motel	hotel	-	Objects: motel, hotel Aspect: difference
+what is the difference between a home equity loan and refinancing with a cash out ?	home equity loan	refinancing with a cash out	-	a home equity loan, refinancing with a cash out Aspect: difference
+What stinks worse Fart or Burp ?	Fart	Burp	stinks	Objects: fart, burp Aspect: stinks
+Should I stay or should I leave him ?	stay	leave	-	Objects: stay, leave Aspect: stay
+do women make a lot of money there . More or less money than stripping at regular bar ?	there stripping	stripping regular bar	money	Objects: money, stripping at regular bar Aspect: money
+why do guys make better friends than women ?	guys	women	make better friends	Objects: 'friends', 'women' Aspect: make
+who participted more deeply in yahoo answers girls or boys ?	girls	boys	participted more deeply in yahoo answers	yahoo answers, girls Aspect: participated
+Do cold air masses have higher or lower air pressure than warm air masses and why ?	cold air masses	warm air masses	air pressure	Objects: cold air masses, air pressure Aspect: higher, lower
+shall we feel comfrtable inlove marriage than arranged marriage ?	inlove marriage	arranged marriage	feel comfrtable	arranged marriage, inlove marriage Aspect: arranged
+Why is a foundry pattern larger than the part it is designed to produce ?	foundry pattern	part it is designed to produce	larger	a foundry pattern, part Aspect: larger
+why is hatred more stronger than love ?	hatred	love	stronger	Objects: hatred, love Aspect: stronger
+Who would win in a fight , Superman ( Pre-Crisis ) or Goku ( Super Saiyan 4 ) ?	Superman	Goku	win in a fight	Objects: Superman ( Pre-Crisis ), Goku ( Super Saiyan 4 ) Aspect: fight
+What is the difference between the Presidents list and Deans list at College ?	Presidents list	Deans list	-	Objects: list, difference
+who lies the most women or men ?	women	men	lies	Objects: 'women','men' Aspect: lies
+Who will win , iran or israel , if there is a war ?	iran	israel	win	iran, israel Aspect: win
+Will it make any difference if I purchase a laptop from the manufacturer ( like Dell or Apple ) or from a retailer ( like Best Buy or Circuit City ) ?	purchase a laptop from the manufacturer	purchase a laptop from a retailer	-	Objects: Dell, Apple, Best Buy, Circuit City Aspect: retailer
+what is the difference between angaina pectoris and myocardial infarction ?	angaina pectoris	myocardial infarction	-	Objects: angaina pectoris, myocardial infarction Aspect: difference
+Who is better , Quantine Terrantino or Stephen King ?	Quantine Terrantino	Stephen King	better	Objects: 'Quantine Terrantino', 'Stephen King' Aspect: better
+What do women do better than men ?	women	men	do	Objects: 'do','men' Aspect: do
+Why are townhomes priced considerably lower than single family homes ?	townhomes	single family homes	priced	Objects: 'townhomes','single family homes' Aspect: lower
+Do you prefer Dallas or Austin , TX ?	Dallas	Austin	prefer	Objects: Dallas, Austin Aspect: prefer
+who do you like better ashely tisdale or Miley ?	ashely tisdale	Miley	like	Objects: 'Ashley Tisdale', 'Miley' Aspect: like
+when playing a game , are you a better winner or loser ?	winner	loser	-	Objects: 'game ', 'winner', 'loser' Aspect: winner, loser
+what is the difference between Catholics and Episcopalians ?	Catholics	Episcopalians	-	Objects: 'Catholics', 'Episcopalians' Aspect: difference
+"What is the difference between "" then "" and "" than "" ?"	then	than	-	Objects: 'then', 'than' Aspect: difference
+Do women sense things stronger than men ?	women	men	sense things	Objects: women, men Aspect: sense
+What is the difference between mythology ( each and every ) and christianity ?	mythology	christianity	-	christianity, mythology Aspect: difference
+what is the difference between a fruit and vegatable ?	fruit	vegatable	-	vegatable, fruit Aspect: difference
+what is the difference between SIV and HIV ?	SIV	HIV	-	Objects: 'SIV', 'HIV' Aspect: difference
+Is anisotropic better than trilinear ?	anisotropic	trilinear	better	Objects: anisotropic, trilinear Aspect: better
+are girls better arguers than boys ?	girls	boys	better arguers	Objects: arguers, boys Aspect: better
+What are the differences between Slave and Employees ?	Slave	Employees	-	Objects: 'Slave', 'Employees' Aspect: differences
+what is the difference between vb.net and asp.net ?	vb.net	asp.net	difference	vb.net, asp.net Aspect: difference
+what is difference between ipod and mp 3 player ?	ipod	mp 3 player	difference	ipod, mp 3 player Aspect: difference
+Why are fans crazier at football games than basketball games ?	fans football games	fans basketball games	crazier	Objects: football games, basketball games Aspect: crazier
+Do you generally open gifts on Christmas Eve or Christmas Day ? ( if you celebrate Christmas that is ) . ?	Christmas Eve	Christmas Day	open	Objects: Christmas Eve, Christmas Day Aspect: open
+Do older houses have as much value as newer ones when they are upgraded ?	older houses upgraded	houses newer	value	Objects: older houses, value
+Is the plural fish or fishes ?	fish	fishes	plural	Objects: 'fish', 'fishes' Aspect: plural
+what marker dries out faster rose art or crayola markers ?	marker rose art	marker crayola	dries out	crayola markers, rose art Aspect: dries out
+What is the difference between genes and alleles ?	genes	alleles	difference	Objects: genes, alleles Aspect: difference
+Who is sexier ? Brandon or Jannes ?	Brandon	Jannes	sexier	Objects: Brandon, Jannes Aspect: sexier
+Who was hung better , Hitler or Himmler ?	Hitler	Himmler	hung better	Objects: 'Hitler', 'Himmler' Aspect: hung
+who looks better , kyla pratt or raven samone ?	kyla pratt	raven samone	looks better	kyla pratt, raven samone Aspect: looks
+who is better ? ? chelsea or barcelona ?	chelsea	barcelona	better	chelsea, barcelona Aspect: better
+What is the difference between Diseases and Syndrome ?	Diseases	Syndrome	-	Objects: 'diseases','syndrome' Aspect: difference
+what is the difference between Switzerland and Sweden ?	Switzerland	Sweden	-	Objects: 'Switzerland', 'Sweden' Aspect: difference
+Who is hotter , Oprah Winfrey or Marty Feldman ?	Oprah Winfrey	Marty Feldman	hotter	Objects: 'Oprah Winfrey', 'Marty Feldman' Aspect: hotter
+How can you tell the difference between a female duck and a male duck ?	female duck	male duck	-	Objects: duck, difference
+how is SED technology better than LCD ?	SED technology	technology LCD	better	Objects: 'SED technology', 'LCD' Aspect: better
+What the difference between American English and British English ? Which is better ?	American English	British English	-	Objects: American English, British English Aspect: better
+What is the difference between a Snake and a Serpent ?	Snake	Serpent	-	Objects: Snake, Serpent Aspect: difference
+what is the safest why to save leftovers cool them down before the frig or store the food warm in the frig ?	leftovers cool down before	leftovers store warm	safest	Objects: cool them down, store the food warm in the frig
+Where would be a good place to have a sweet 16 party in North Myrtle Beach or Myrtle Beach ?	North Myrtle	Myrtle Beach	-	Objects: 'North Myrtle Beach', 'Myrtle Beach' Aspect: good place
+WHy is a Apple better tHan a P.C. ?	Apple	P.C.	better	Objects: 'Apple', 'P.C.' Aspect: better
+Are jewelleries in Hong Kong cheaper than in Singapore ?	jewelleries Hong Kong	jewelleries Singapore	cheaper	Objects: Hong Kong, Singapore Aspect: cheaper
+who should she be with ... morelli or ranger ?	morelli	ranger	-	Objects: morelli, ranger Aspect: with
+What is first-degree murder and what is second -degree murder ? Also what is the difference between the two of it ?	first-degree murder	second -degree murder	-	Objects: first-degree murder, second -degree murder Aspect: difference
+Who is hotter Jesus or Satan ?	Jesus	Satan	hotter	Objects: Jesus, Satan Aspect: hotter
+Who do u think is hotter Jared Padeleki or Jensen Ackles ?	Jared Padeleki	Jensen Ackles	hotter	Objects: 'Jared Padeleki', 'Jensen Ackles' Aspect: hotter
+Why are English women better looking than American woman ?	English women	American woman	better looking	Objects: English women, American woman Aspect: looking
+who to choose ? guyA or guyB ?	guyA	guyB	-	Objects: guyA, guyB Aspect: choose
+what is difference between performace and serviceability ?	performace	serviceability	-	Objects: 'performace','serviceability' Aspect: difference
+how many women think that mental abuse is worse than physicalabuse . write back . ?	mental abuse	physicalabuse	worse	Objects: mental abuse, physicalabuse Aspect: worse
+what is the difference between transnational corporations and multinational corporations ?	transnational corporations	multinational corporations	-	Objects: transnational corporations, multinational corporations Aspect: difference
+"Would you rather go on a cruise ship or have a "" pamper me "" day at home ?"	go on a cruise ship	"have a "" pamper me "" day at home"	-	"Objects: 'go on a cruise ship', 'have a "" pamper me "" day at home'Aspect: go on a cruise ship"
+how can i tell if a fabric is rayon or polyester ?	rayon	polyester	-	a fabric, rayon, polyester Aspect: tell
+Is it ok to give just as much formula as breastmilk ?	formula	breastmilk	-	Objects: breastmilk, formula Aspect: give
+What has picture quality : 720p or 1080i ? Why ?	720p	1080i	-	720p, 1080i Aspect: quality
+what is difference between Dams and barrages ?	Dams	barrages	-	Objects: 'Dams', 'Barrages' Aspect: difference
+do u think that mothers have more rights than fathers ?	mothers	fathers	rights	Objects: 'rights','mothers' Aspect: more
+What are the differences between normal food and organic food ?	normal food	organic food	-	Objects: normal food, organic food Aspect: differences
+what name do you like better richard or julio ?	richard	julio	-	julio, richard Aspect: like
+How is the LTE internet on my phone faster than my internet at home ?	LTE internet phone	internet home	faster	Objects: internet, phone Aspect: faster
+What is the difference between film and digitals dynamic range for motion pictures	film	digitals dynamic range	-	Objects: film, dynamic range, motion pictures
+Why does wet hair or eyebrows require far more time to dry than skin ?	wet hair or eyebrows	skin	time to dry	Objects: hair, skin Aspect: time
+is the difference between a ' one-tail ' and ' two-tail ' test with regards statistical significance ?	one-tail	two-tail	statistical significance	' one-tail ','two-tail'Aspect: statistical significance
+why do freshly bruised fruits taste different than normal ?	freshly bruised fruits	normal	taste	Objects: 'freshly bruised fruits', 'normal' Aspect: taste
+What are the main differences between recreation and medicinal marijuana ?	recreation marijuana	medicinal marijuana	-	Objects: marijuana, differences
+Why are pickup trucks ' exhaust pipe differently shaped than cars ' ?	pickup trucks exhaust pipe	exhaust pipe cars	shaped	Objects: 'exhaust pipe', 'cars' Aspect: differently shaped
+How do CEO 's make so much more than regular employees ?	CEO 's	regular employees	make	Objects: CEO's, regular employees Aspect: more
+Why are bumble bees so much louder than wasps , hornets , and yellow jackets when they fly ?	bumble bees	wasps , hornets , and yellow jackets	louder	bumble bees, wasps, hornets, yellow jackets Aspect: fly
+Why is it more acceptable for a women to lie than a man ?	women lie	lie man	more acceptable	a women, lie Aspect: lie
+Why is it so much worse to have a body-temperature of 36 degrees celsius than to have a 40 degrees celsius fever ?	body-temperature of 36 degrees celsius	40 degrees celsius fever	worse	Objects: body-temperature, 40 degrees celsius fever
+why does hair stay wet for so long , unlike skin which does not stay wet ? How was this an evolutionary benefit to cavemen ?	hair	skin	stay wet for so long	Objects: hair, skin Aspect: stay
+Why is California so much more expensive in general compared to Texas ?	California	Texas	more expensive	Objects: California, Texas Aspect: compare
+Why is diesel more expensive than gasoline , and why has it remained at higher prices recently while the price of gas has gone down ?	diesel	gasoline	more expensive	Objects: diesel, gasoline Aspect: price
+Why does food taste slightly different when you reheat in a microwave than freshly cooked	food reheat microwave	food freshly cooked	taste slightly different	reheat, freshly cooked Aspect: different
+Why is it bad to eat human meat , ( in terms of autoimmune problems , possibility of transmission of disease , etc . ) compared to eating say beef ?	human meat	beef	-	eat human meat, beef Aspect: bad
+Why does Saudi Arabia seemingly have more conservative / reactionary rules / viewpoints than surrounding countries ?	Saudi Arabia	surrounding countries	more conservative / reactionary rules / viewpoints	Objects: Saudi Arabia, surrounding countries Aspect: surrounding
+What is the difference between OLED and QLED technology ? Which is better ?	OLED technology	QLED technology	-	Objects: 'OLED', 'QLED' Aspect: better
+Why do I find it easier to reverse into a tight perpendicular park than to take it front on ?	reverse tight perpendicular park	tight perpendicular park front on	easier	Objects: park, take it front on Aspect: easier
+Do videos that only consist of audio and an image take up more space than the audio and image separately ?	audio	audio image	take up space	Objects: audio, video, audio, image, separately Aspect: space
+When we wake up in the morning , why do we crave food so much more than water when we need more water than food ?	food	water	crave	Objects: food, water Aspect: crave
+"What is the difference between "" gray "" and "" grey ? """	gray	grey	-	Objects: 'grey', 'gray'Aspect: difference
+"is the difference between someone being a "" heavy sleeper "" or "" light sleeper """	heavy sleeper	light sleeper	-	Objects: 'heavy sleeper', 'light sleeper' Aspect: difference
+What is the difference between Chapter 11 bankruptcy and Chapter 7 ?	Chapter 11 bankruptcy	bankruptcy Chapter 7	-	Objects: Chapter 11, Chapter 7 Aspect: difference
+Why do people answer questions better if they look at a different direction rather than maintaining eye contact with the person ?	look at a different direction	maintaining eye contact	answer questions better	Objects: look, contact, maintain
+Would I get the same effect if I drank 5 beers each with an alcohol content of 5 % versus a shot with an alcohol level of 25 % ?	5 beers alcohol content 5 %	shot alcohol level 25 %	effect	drank, beers, alcohol level, shot
+What is the difference between hip-hop and rap ?	hip-hop	rap	-	rap, hip-hop Aspect: difference
+Why do humans prefer to bathe in warm water rather than cold water and is there any evolutionary advantage ?	warm water	water cold	prefer to bathe	Objects: warm water, cold water Aspect: prefer
+Why does a debit card require you to use the chip scanner now rather than swiping it ?	debit card chip scanner	debit card swiping	use	swiping, chip scanner Aspect: swiping
+Why do carbonated drinks taste / feel fizzier than drinks in plastic bottles ?	carbonated drinks	drinks in plastic bottles	taste / feel fizzier	Objects: carbonated drinks, plastic bottles Aspect: taste
+Why do bones last so much longer than flesh after we die ?	bones	flesh	last	Objects: bones, flesh Aspect: last
+"How are "" binned "" CPU 's or GPU 's different from their "" lower-quality "" counterparts ?"	binned CPU 's or GPU 's	CPU 's or GPU 's lower-quality	-	Objects: 'binned', 'lower-quality', 'corespondents' Aspect: different
+Why does the front brake on a bike have more stopping power than the back brake ?	front brake bike	bike back brake	stopping power	Objects: front brake, back brake Aspect: power
+What is the difference between Alzheimer 's and Dementia ? What are the symptoms and what are the treatment options and how can they kill you ?	Alzheimer	Dementia	-	Objects: Alzheimer's, Dementia Aspect: kill
+why do “ overweight ” people tend to snore more than average weighted people ?	overweight people	average weighted people	snore	Objects: overweight, average weighted
+Why do dimpled Golf balls fly better / faster / further than smooth ones	dimpled Golf balls	Golf balls smooth	fly	Objects: golf ball, smooth one Aspect: fly
+How do we know the difference between sunup and sundown ?	sunup	sundown	-	Objects: sunup, sundown Aspect: know
+Why is it easier to stand up and walk around on trains than buses even though trains go faster ?	trains	buses	easier to stand up and walk around	Objects: trains, buses Aspect: easier
+"What causes us to feel that certain sounds are "" pleasant "" vs. "" unpleasant "" ? How does our brain make that distinction and why ?"	sounds pleasant	sounds unpleasant	-	Objects:'sounds', 'pleasant', 'unpleasant' Aspect: distinction
+Why does exhaling “ hooo ” feel cooler than exhaling “ haaa ” ?	exhaling hooo	exhaling haaa	cooler	Objects: exhaling, cooler
+Why are female 's muscles so much smaller than male 's , but have about the same physical capacity ?	female 's muscles	muscles male 's	smaller	Objects: female's muscles, male's Aspect: physical capacity
+What is the difference between a vaporizer and a hooka pen ?	vaporizer	hooka pen	-	vaporizer, hooka pen Aspect: difference
+Why were dinosaurs in general so much bigger than species that are alive today ?	dinosaurs	species that are alive today	bigger	Objects: dinosaurs, species Aspect: bigger
+What factors cause an employer 's market vs. an employee 's market ?	employer 's	employee 's	-	Objects: market, factors Aspect: cause
+what is the difference between the old testament and new testament ?	old testament	new testament	-	Objects: old testament, new testament Aspect: difference
+"Why is classical music named things like "" symphony no . 5 "" and not catchier titles similar to modern pop songs ?"	classical music	modern pop songs	-	Objects: classical music, modern pop songs Aspect: similar
+Is the world as a whole polluting less now than in previous years ?	now	previous years	polluting less	Objects: world as a whole, previous years Aspect: polluting
+Are 2-hour naps plus 6 hours of sleep better or worse than 7 hours of sleep ? Why or why not ?	2-hour naps plus 6 hours of sleep	7 hours of sleep	better or worse	naps, sleep, 7 hours of sleep Aspect: better
+Can someone please explain the difference between Christianity and Catholicism to me	Christianity	Catholicism	-	Objects: Christianity, Catholicism Aspect: difference
+Why waiting to use your phone after it 's fully charged is better than charging it for a little bit and then using it ?	waiting to use your phone after it 's fully charged	charging it for a little bit and then using it	better	Objects: phone, fully charged, charging it for a little bit Aspect: better
+What makes getting back to sleep so easy compared to going to sleep	getting back to sleep	going to sleep	easy	Getting back to sleep, Going to sleep Aspect: easy
+Why does natural peanut butter have more calories than processed peanut butter ?	natural peanut butter	peanut butter processed	more calories	Objects: natural peanut butter, processed peanut butter Aspect: calories
+How come in the morning the hot water feels much hotter than after a workout ?	morning	after a workout	-	Objects: morning, hot water Aspect: hotter
+What is the difference between bone and shell ?	bone	shell	-	Objects: bone, shell Aspect: difference
+What makes banning guns different from prohibition ?	banning guns	prohibition	-	Objects: banning guns, prohibition Aspect: different
+Why are ARM processors so much more power efficient than x86 processors ?	ARM processors	x86 processors	power efficient	ARM processors, x86 processors Aspect: efficient
+does a square bottle use less plastic than a round bottle ?	square bottle	round bottle	plastic	a square bottle, a round bottle Aspect: plastic
+Why is it much easier for a child to laugh than an adult ?	child	adult	to laugh	a child, an adult Aspect: easier
+Why when I eat really spicy food , the spicy part travels to my anus faster than the rest of the food ?	the spicy part	the rest of the food	travels	eat really spicy food, spicy part travels to my anus faster than the rest of the food Aspect: faster
+What makes a manual transmission better than an automatic , wouldn't the automatic eliminate human error ?	manual transmission	transmission automatic	better	Objects: automatic, manual transmission Aspect: eliminate
+What is the difference between left-wing and right-wing politics ?	left-wing politics	right-wing politics	-	wing, politics Aspect: difference
+is the difference between legislative lobbying and regulatory lobbying ?	legislative lobbying	regulatory lobbying	-	lobbies, lobbying Aspect: lobbying
+are there much more right-handed people than left-handed people ?	right-handed people	left-handed people	more	Objects: right-handed, left-handed Aspect: more
+How is Google fiber different than Facebook free basics when it comes to preserving net neutrality ?	Google fiber	Facebook free basics	net neutrality	Objects: Google fiber, Facebook free basics Aspect: different
+Why are the numbers on my dial-pad ( phone ) in a different order than on my number-pad ( keyboard ) ?	numbers dial-pad	numbers number-pad	order	Objects: phone, number-pad Aspect: different
+why do standard black vinyl records sound different ( better ? ) than colored / clear ones ?	standard black vinyl records	records colored / clear	sound	Objects:'standard black vinyl records', 'colored / clear ones' Aspect: different
+What are idealism and realism ? What are the differences between the two ?	idealism	realism	-	realism, idealism Aspect: differences
+Why is an itch more satisfying from a sharper object than a dull object ?	itch sharper object	itch dull object	satisfying	itch, object Aspect: satisfying
+What is the difference between red herring and non-sequitur ?	red herring	non-sequitur	-	Objects: red herring, non-sequitur Aspect: difference
+How a drink that has a value of 0 for everything isn't practically as good for you as water ?	drink that has a value of 0 for everything	water	good for you	a drink, water Aspect: good
+do we bury the dead in a horizontal position , rather than vertically ?	horizontal position	vertically	bury the dead	bury the dead, horizontally, vertically Aspect: horizontally
+why do saltwater fish generally grow bigger and show more colors than freshwater fish ?	saltwater fish	freshwater fish	grow bigger and show	Objects: saltwater fish, freshwater fish Aspect: grow bigger, show more colors
+wouldn't light fired from a moving object not be faster than light fired from an object at rest relative to the object at rest ?	light fired from a moving object	light fired from an object at rest	faster	Objects: light, moving object, object at rest, relative
+Why is the second day of an injury general worse than the first day ?	second day injury	injury first day	worse	Objects: injury, day Aspect: worse
+Why do advertisements load faster than the video on YouTube ?	advertisements	video	load	Objects: advertisements, video Aspect: faster
+Why are phone screens harder to see in bright daylight than in the dark ?	phone screens bright daylight	phone screens in the dark	harder to see	Objects: phone screens, daylight, dark
+is the difference between a bachelor of science and a bachelor of arts ?	bachelor of science	bachelor of arts	-	Objects: bachelor of science, bachelor of arts Aspect: difference
+What is the difference between suicide inhibitors and irreversible inhibitors ?	suicide inhibitors	irreversible inhibitors	-	Objects: suicide inhibitors, irreversible inhibitors Aspect: difference
+Why is it windier at night than during the day ?	night	day	windier	Objects: 'night', 'day' Aspect: day
+When lifting weights . What 's the difference between doing 1 - 5 reps with heavy weight and 8 - 12 reps with medium weights ?	1 - 5 reps with heavy weight	8 - 12 reps with medium weights ?	-	Objects: heavy weight, reps
+Why is a brush of wind so much colder to our skin when it ’s wet rather than dry ?	brush of wind wet	brush of wind dry	-	a brush of wind, skin Aspect: colder
+Why does a red laser pointer show up on lighter surfaces better than dark ones ?	lighter surfaces	surfaces dark	-	Objects: a laser pointer, surfaces
+Is making a smoothie out of my daily vegetables significantly worse than eating them whole ?	making a smoothie vegetables	vegetables eating them whole	worse	Objects: a smoothie, eating them whole Aspect: worse
+Why is diet coke said to be worse for your body than normal coke ?	diet coke	normal coke	worse	Objects: diet coke, normal coke Aspect: worse
+do females on average , live longer than men ?	females	men	live	Objects: 'live longer','men' Aspect: live
+Why do people traveling at high speeds experience time slower than those traveling at slower speeds ?	people high speeds	people slower speeds	time	Objects: 'high speeds','slower speeds' Aspect: faster
+Would snow put out a fire faster or slower than rain ?	snow	rain	put out a fire	Objects: snow, rain Aspect: faster, slower
+Why are more men than women likely to live at home with parents ?	men	women	live at home with parents	Objects: men, women Aspect: likely
+"What is the difference between "" Nautical Miles "" and "" Statute Miles "" , and why don't we use just one uniform measurement ?"	Nautical Miles	Statute Miles	-	Objects: 'Nautical Miles', 'Statutory Miles' Aspect: measurement
+Why is porn more censored than violence ?	porn	violence	censored	Objects: porn, violence Aspect: censored
+why do digital copies of movies / video games / music cost just as much ( sometimes more than ) as purchasing a hard disc copy ?	digital copies	hard disc copy	cost	Objects: 'digital copies', 'hard disc copy' Aspect: cost
