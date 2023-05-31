@@ -9,7 +9,7 @@ First of all, we finalized the part for entering a user request. The KAM tool pr
 
 The finetuned models were evaluated by us using a number of metrics: cosine similarity, Levenshtein distance, SEAF, MUC and others.
 
-## CAM level
+## CAM 
 Further, the data is processed by the CAM system, which produces a list of statements in natural language in favor of each of the objects.
 
 ## GPT-2 for summarization
