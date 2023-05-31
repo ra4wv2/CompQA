@@ -1,6 +1,6 @@
 # CompQA
 
-This system is an extended version of Comparative Argumentative Machine, whose detailed description can be found here.
+This system is an extended version of Comparative Argumentative Machine, whose detailed description can be found (here)[https://github.com/uhh-lt/cam].
 
 We have extended this system with generative transformer-models.
 
