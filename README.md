@@ -17,6 +17,11 @@ These statements go to the next generative model - GPT-2. The model summarizes t
 We also finetuned this model and evaluated the results using the ROUGE and BLEU metrics.
 
 ## Other information
-Detailed information about model evaluations can be found in the corresponding notebooks.
+Detailed information about model evaluations can be found in the corresponding notebooks ([evaluating_object_recognition.ipynb](./evaluating_object_recognition.ipynb), [evaluating_finetuned_t5models.ipynb](./evaluating_finetuned_t5models.ipynb) and in the end of [GPT2_finetuning.ipynb](./GPT2_finetuning.ipynb)).
 
-The choice of model for object recognition can also be found in the notebook.
+Infomation about finetuning can be found in [GPT2_finetuning.ipynb](./GPT2_finetuning.ipynb) and [T5models_finetuning.ipynb](./T5models_finetuning.ipynb).
+
+The choice of model for object recognition can also be found in the notebook [object_recognition.ipynb](./object_recognition.ipynb).
+
+[ChatGPT_dataset.ipynb](./ChatGPT_dataset.ipynb) contains some information about dataset statistics, evaluation and correction.
+
