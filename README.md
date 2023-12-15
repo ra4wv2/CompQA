@@ -25,3 +25,4 @@ The choice of model for object recognition can also be found in the notebook [ob
 
 [ChatGPT_dataset.ipynb](./ChatGPT_dataset.ipynb) contains some information about dataset statistics, evaluation and correction.
 
+[Full text in russian](./full_text.csv). [Presentation in english](./presentation.csv).
